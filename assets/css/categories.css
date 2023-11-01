@@ -27,8 +27,8 @@
     display: block !important;
     margin: 0px 10px;
     width: 200px !important;
-    height: 150px !important;
-    background-color: whitesmoke;
+    height: 200px !important;
+   /* background-color: whitesmoke;*/
     border-radius: 10px;
 }
 
@@ -43,13 +43,14 @@
 
 .slick-item-title{
     position: absolute;
-    color: black;
+    color:black;
     font-size: 15px;
     text-align: center;
     width: 100%;
     z-index: 10;
     font-weight: bold;
     top: 5px;
+    bottom: 40px;
     text-transform: capitalize;
 }
 
